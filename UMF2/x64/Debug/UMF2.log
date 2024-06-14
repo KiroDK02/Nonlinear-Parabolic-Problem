@@ -1,0 +1,28 @@
+﻿  functionsOfMatrix.cpp
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(37,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(37,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(67,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(67,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(67,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(67,38): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(80,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(80,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(109,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(109,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(152,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(152,35): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(177,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(177,19): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(272,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(272,19): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(287,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(287,16): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(295,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(295,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(312,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(312,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(330,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(330,19): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(342,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Дмитрий\source\repos\UMF2\UMF2\functionsOfMatrix.cpp(342,20): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  UMF2.vcxproj -> C:\Users\Дмитрий\source\repos\UMF2\x64\Debug\UMF2.exe

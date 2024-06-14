@@ -1,0 +1,5 @@
+Time layer 0: t = 0.00000, countNodes = 5 ||u* - u||L2 = 0.0000e+00
+Time layer 1: t = 1.00000, countNodes = 5, ht = 1.00000, countIteration = 4, ||u* - u||L2 = 1.8588e-01
+Time layer 2: t = 2.00000, countNodes = 5, ht = 1.00000, countIteration = 4, ||u* - u||L2 = 3.1489e-01
+Time layer 3: t = 3.00000, countNodes = 5, ht = 1.00000, countIteration = 4, ||u* - u||L2 = 4.0134e-01
+Time layer 4: t = 4.00000, countNodes = 5, ht = 1.00000, countIteration = 4, ||u* - u||L2 = 4.5898e-01
